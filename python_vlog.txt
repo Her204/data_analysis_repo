@@ -1,0 +1,3 @@
+new functions on python learned today:
+    - eval(): to transform string text to executable code on python.
+    - import inspect -> inspect.getmembers: to see all the attributes from a class
